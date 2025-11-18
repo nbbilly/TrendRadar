@@ -97,6 +97,10 @@ platforms:
     name: "MKT新闻"
   - id: "kaopu"
     name: "靠谱新闻"
+  - id: "douban"
+    name: "豆瓣"
+  - id: "coolapk"
+    name: "酷安"
 
   # === 财经投资类 ===
   - id: "wallstreetcn-hot"
